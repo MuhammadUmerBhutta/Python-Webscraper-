@@ -184,9 +184,9 @@ def main(username, password, search_term, filepath, page_sort='Top'):
 
 
 if __name__ == '__main__':
-    usr = "eftoffe@gmail.com"
-    pwd = "Developer1971"
-    path = 'Sample_tweets_using_webscraper1.csv'
+    usr = "Emailaddress@xyz.com"
+    pwd = "Password"
+    path = 'Path to file.csv'
     term = '🍩🍌'
     page = 'Top'
 
